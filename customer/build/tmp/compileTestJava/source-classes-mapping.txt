@@ -1,0 +1,4 @@
+com/hcl/wm/customer/service/CustomerServiceTest.java
+ com.hcl.wm.customer.service.CustomerServiceTest
+com/hcl/wm/customer/CustomerApplicationTests.java
+ com.hcl.wm.customer.CustomerApplicationTests

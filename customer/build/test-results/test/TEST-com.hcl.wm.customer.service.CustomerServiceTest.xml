@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hcl.wm.customer.service.CustomerServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-01T14:05:04" hostname="LP-5CD013FR00" time="0.007">
+  <properties/>
+  <testcase name="getCustomer()" classname="com.hcl.wm.customer.service.CustomerServiceTest" time="0.001"/>
+  <testcase name="findAll()" classname="com.hcl.wm.customer.service.CustomerServiceTest" time="0.002"/>
+  <testcase name="saveCustomer()" classname="com.hcl.wm.customer.service.CustomerServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

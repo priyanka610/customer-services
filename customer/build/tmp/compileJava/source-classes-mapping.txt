@@ -1,0 +1,20 @@
+com/hcl/wm/customer/controller/CustomerController.java
+ com.hcl.wm.customer.controller.CustomerController
+com/hcl/wm/customer/repository/CustomerRepository.java
+ com.hcl.wm.customer.repository.CustomerRepository
+com/hcl/wm/customer/client/Customer.java
+ com.hcl.wm.driver.client.Customer
+com/hcl/wm/customer/client/Order.java
+ com.hcl.wm.driver.client.Order
+com/hcl/wm/customer/client/Item.java
+ com.hcl.wm.driver.client.Item
+com/hcl/wm/customer/CustomerApplication.java
+ com.hcl.wm.customer.CustomerApplication
+com/hcl/wm/customer/client/OrderResponse.java
+ com.hcl.wm.driver.client.OrderResponse
+com/hcl/wm/customer/client/Driver.java
+ com.hcl.wm.driver.client.Driver
+com/hcl/wm/customer/dto/Customer.java
+ com.hcl.wm.customer.dto.Customer
+com/hcl/wm/customer/service/CustomerService.java
+ com.hcl.wm.customer.service.CustomerService
